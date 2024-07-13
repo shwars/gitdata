@@ -1,2 +1,3 @@
 # gitdata
-Small datasets for AI Course
+
+Different small datasets used in MAILabs AI Courses
